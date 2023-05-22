@@ -7,3 +7,6 @@ Uploaded jupyter notebook of Assignment1
 Uploaded jupyter notebook of Overview
 Uploaded jupyter notebook of Python Basics
 Uploaded jupyter notebook of Strings and Methods, Expressions, Operators
+Uploaded jupyter notebook of Strings List
+Uploaded jupyter notebook of Tuples
+Uploaded jupyter notebook of Sets
