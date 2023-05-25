@@ -11,3 +11,4 @@ Uploaded jupyter notebook of Strings List.
 Uploaded jupyter notebook of Tuples.
 Uploaded jupyter notebook of Sets.
 Uploaded jupyter notebook of Ditionary.
+Uploaded jupyter notebook of Assignment-2.
