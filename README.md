@@ -10,3 +10,4 @@ Uploaded jupyter notebook of Strings and Methods, Expressions, Operators.
 Uploaded jupyter notebook of Strings List.
 Uploaded jupyter notebook of Tuples.
 Uploaded jupyter notebook of Sets.
+Uploaded jupyter notebook of Ditionary.
