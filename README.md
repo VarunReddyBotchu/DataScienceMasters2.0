@@ -17,3 +17,5 @@ Uploaded jupyter notebook of Functions Part2.
 Uploaded jupyter notebook of Generator functions, Lambda Functions, Map,Reduce,Filter Functions.
 Uploaded jupyter notebook of Python Assignment.
 Uploaded jupyter notebook of Function Assignment.
+Uploaded jupyter notebook of OOPS.
+Uploaded jupyter notebook of Polymorphism.
