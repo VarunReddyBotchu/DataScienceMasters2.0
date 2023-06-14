@@ -20,3 +20,4 @@ Uploaded jupyter notebook of Function Assignment.
 Uploaded jupyter notebook of OOPS.
 Uploaded jupyter notebook of Polymorphism.
 Uploaded jupyter notebook of Encapsulation, Inheritance, Abstraction, Decorators, Class Methods.
+Uploaded jupyter notebook of Static Method, Special Methods, Property Decorators.
