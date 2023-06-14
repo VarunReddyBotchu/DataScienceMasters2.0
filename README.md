@@ -19,3 +19,4 @@ Uploaded jupyter notebook of Python Assignment.
 Uploaded jupyter notebook of Function Assignment.
 Uploaded jupyter notebook of OOPS.
 Uploaded jupyter notebook of Polymorphism.
+Uploaded jupyter notebook of Encapsulation, Inheritance, Abstraction.
