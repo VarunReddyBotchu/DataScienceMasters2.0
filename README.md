@@ -23,3 +23,4 @@ Uploaded jupyter notebook of Encapsulation, Inheritance, Abstraction, Decorators
 Uploaded jupyter notebook of Static Method, Special Methods, Property Decorators.
 Uploaded jupyter notebook of OOPS Assignment.
 Uploaded jupyter notebook of OOPS Task Assignment.
+Uploaded jupyter notebook of Working_with_Files, Reading and Writing Files, Buffered Read and Write Other FIle Methods.
