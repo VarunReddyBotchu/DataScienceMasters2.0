@@ -26,3 +26,5 @@ Uploaded jupyter notebook of OOPS Task Assignment.
 Uploaded jupyter notebook of Working_with_Files, Reading and Writing Files, Buffered Read and Write Other FIle Methods.
 Uploaded jupyter notebook of DSA Assignment1,2,3,4,5.
 Uploaded jupyter notebook of Logging and Debugger, python file of Modules and Import statements(course.py & payment.py).
+Uploaded jupyter notebook of DSA Assignment 6.
+Uploaded jupyter notebook of Exception Handling with Try-exept, Custom Exception Handling, List of General Use Exeption, Best Practie Exception Handling.
